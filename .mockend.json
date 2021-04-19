@@ -1,13 +1,16 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
+  "Report": {
+    "Project": "string",
+    "Report Name": "string",
+    "Description": "string",
+    "Enabled": "boolean",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "createdBy": "string"
+    "Metrics": "Metrics[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  "Metrics": {
+    "Metric Name": "string",
+    "Metric Category": "string",
+    "SQL Query": "string"
+   }
 }
