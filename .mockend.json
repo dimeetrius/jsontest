@@ -6,6 +6,6 @@
   "isenabled": "boolean",  
   "createdon":"date",
   "updatedon":"date",
-  "updatedby":"date"
+  "updatedby":"string"
 }
 }
