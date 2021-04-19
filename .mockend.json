@@ -1,6 +1,6 @@
 {
-  "userId": int,
-    "id": int,
+  "userId": "int",
+    "id": "int",
     "title": "string",
     "body":"string"
 }
