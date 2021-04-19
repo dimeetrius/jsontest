@@ -4,8 +4,8 @@
   "reportname": "Report WBR",
   "reportdesc": "Weekly Business Review",
   "isenabled": "1",  
-  "createdon":"2021-04-19",
-  "updatedon":"2021-04-19",
+  "createdon":"",
+  "updatedon":"",
   "updatedby":"Dmytro Gorbanov"
 },
 {
@@ -14,8 +14,8 @@
   "reportname": "Report WBR",
   "reportdesc": "Weekly Business Review",
   "isenabled": "1",  
-  "createdon":"2021-04-19",
-  "updatedon":"2021-04-19",
+  "createdon":"",
+  "updatedon":"",
   "updatedby":"Dmytro Gorbanov"
 }
 ]
