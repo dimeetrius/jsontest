@@ -1,4 +1,4 @@
-{ "reports": {
+"reports": {
   "project": "string",
   "reportid": "int",
   "reportname": "string",
@@ -7,5 +7,4 @@
   "createdon":"date",
   "updatedon":"date",
   "updatedby":"string"
-}
 }
