@@ -1,4 +1,4 @@
-{ "report": {
+{ "reports": {
   "project": "string",
   "reportid": "int",
   "reportname": "string",
