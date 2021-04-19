@@ -3,7 +3,7 @@
   "reportid": 123,
   "reportname": "Report WBR",
   "reportdesc": "Weekly Business Review",
-  "isenabled": "true",  
+  "isenabled": true,  
   "createdon":"",
   "updatedon":"",
   "updatedby":"Dmytro Gorbanov"
@@ -13,7 +13,7 @@
   "reportid": 124,
   "reportname": "Report WBR",
   "reportdesc": "Weekly Business Review",
-  "isenabled": "true",  
+  "isenabled": true,  
   "createdon":"",
   "updatedon":"",
   "updatedby":"Dmytro Gorbanov"
