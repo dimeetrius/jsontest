@@ -1,6 +1,7 @@
-{"reports": {
-  "project": "string",
-  "reportid": "int",
-  "reportname": "string"
+{"posts": {
+  "userId": "int",
+  "id": "int",
+  "title": "string",
+  "body": "string"
 }
 }
