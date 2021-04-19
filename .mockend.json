@@ -12,7 +12,7 @@
 
 
 [
-  {
+  "reports": {
   "project": "Project A",
   "reportid": "123",
   "reportname": "Report WBR",
