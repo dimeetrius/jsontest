@@ -1,11 +1,6 @@
 {"reports": {
   "project": "string",
   "reportid": "int",
-  "reportname": "string",
-  "reportdesc": "string",
-  "isenabled": "boolean",  
-  "createdon":"date",
-  "updatedon":"date",
-  "updatedby":"string"
+  "reportname": "string"
 }
 }
