@@ -1,12 +1,23 @@
 {
   "Report": {
-  "project": "string",
-  "reportid": "int",
-  "reportname": "string",
-  "reportdesc": "string",
-  "isenabled": "boolean",  
-  "createdon":"date",
-  "updatedon":"date",
-  "updatedby":"string"
+          "project": "string",
+          "reportid": "int",
+          "reportname": "string",
+          "reportdesc": "string",
+          "isenabled": "boolean",  
+          "createdon":"date",
+          "updatedon":"date",
+          "updatedby":"string",
+          "metrics": "Metric[]"  
+            },
+  "Metric": {
+          "metricid": "int",
+          "metricname": "string",
+          "metricdesc": "string",
+          "metricquery": "string",
+          "isenabled": "boolean",  
+          "createdon":"date",
+          "updatedon":"date",
+          "updatedby":"string"
           }
 }
