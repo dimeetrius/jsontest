@@ -9,25 +9,3 @@
   "updatedby":"string"
 }
 }
-
-[{
-  "project": "Project A",
-  "reportid": 123,
-  "reportname": "Report WBR",
-  "reportdesc": "Weekly Business Review",
-  "isenabled": true,  
-  "createdon":"",
-  "updatedon":"",
-  "updatedby":"Dmytro Gorbanov"
-},
-{
-  "project": "Project B",
-  "reportid": 124,
-  "reportname": "Report WBR",
-  "reportdesc": "Weekly Business Review",
-  "isenabled": true,  
-  "createdon":"",
-  "updatedon":"",
-  "updatedby":"Dmytro Gorbanov"
-}
-]
