@@ -1,16 +1,6 @@
 {
-  "Report": {
-    "Project": "string",
-    "Report Name": "string",
-    "Description": "string",
-    "Enabled": "boolean",
-    "createdAt": "date",
-    "createdBy": "string",
-    "Metrics": "Metrics[]"
-  },
-  "Metrics": {
-    "Metric Name": "string",
-    "Metric Category": "string",
-    "SQL Query": "string"
-   }
+  "userId": int,
+    "id": int,
+    "title": "string",
+    "body":"string"
 }
