@@ -1,7 +1,11 @@
-{ "Test": {
-  "userId": "int",
-    "id": "int",
-    "title": "string",
-    "body":"string"
+o{ "reports": {
+  "project": "string",
+  "reportid": "int",
+  "reportname": "string",
+  "reportdesc": "string",
+  "isenabled": "bollean",  
+  "createdon":"date",
+  "updatedon":"date",
+  "updatedby":"date"
 }
 }
