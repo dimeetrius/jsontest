@@ -5,7 +5,7 @@
     "Description": "string",
     "Enabled": "boolean",
     "createdAt": "date",
-    "createdBy": "string"
+    "createdBy": "string",
     "Metrics": "Metrics[]"
   },
   "Metrics": {
