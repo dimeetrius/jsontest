@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Report": {
   "project": "string",
   "reportid": "int",
   "reportname": "string",
