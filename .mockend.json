@@ -1,8 +1,12 @@
 {
   "Post": {
-  "userId": "int",
-  "id": "int",
-  "title": "string",
-  "body": "string"
+  "project": "string",
+  "reportid": "int",
+  "reportname": "string",
+  "reportdesc": "string",
+  "isenabled": "boolean",  
+  "createdon":"date",
+  "updatedon":"date",
+  "updatedby":"string"
           }
 }
